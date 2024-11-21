@@ -1,6 +1,6 @@
 # About Me 👋
 
-Hi, I'm Dr. Savo Asanin, a data-driven leader with extensive expertise in **Data Science**, **Artificial Intelligence**, and **Electric Vehicle Technology**. 
+Hi, I'm Savo, a data-driven leader with extensive expertise in **Data Science**, **Artificial Intelligence**, and **Electric Vehicle Technology**. 
 With a Ph.D. in Computational Engineering, I thrive at the intersection of advanced analytics, AI-driven insights, and strategic project execution.
 
 Currently serving as a **Project Manager and Product Owner** at **BMW Group**, I am passionate about leveraging data, AI, and cutting-edge technologies to drive innovation,
