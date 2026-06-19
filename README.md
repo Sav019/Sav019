@@ -1,38 +1,58 @@
-# About Me 👋
+# Hi, I'm Savo 👋
 
-Hi, I'm Savo, a data-driven leader with extensive expertise in **Data Science**, **Artificial Intelligence**, and **Electric Vehicle Technology**. 
-With a Ph.D. in Computational Engineering, I thrive at the intersection of advanced analytics, AI-driven insights, and strategic project execution.
+I'm an AI / GenAI Solution Architect, full-stack builder, and Dr.-Ing. in Computational Engineering based in Munich.
 
-Currently serving as a **Project Manager and Product Owner** at **BMW Group**, I am passionate about leveraging data, AI, and cutting-edge technologies to drive innovation,
-enhance product strategies, and ensure the competitive edge of electric vehicles.
+I work at the intersection of **AI systems**, **software products**, and **engineering-heavy domains**. My current focus is on building practical AI applications with LLMs, RAG, multi-agent workflows, knowledge graphs, multimodal AI, and full-stack web/mobile products.
 
----
-
-## 📂 Projects & Certifications
-
-- **Udacity Data Scientist Nanodegree** (Oct 2024)  
-  - Hands-on expertise in machine learning, data analysis, and data visualization.  
-  - Developed predictive models and impactful dashboards to solve real-world problems.  
-
-- **AI Market Prognosis Dashboards**  
-  - Created data visualization tools that streamlined decision-making at BMW Group.
-  - Acting Product Owner for development of prognosis dashboard.
-
-- **iOS App development with Swift and SwiftUI**
-  - Currently working on app development.
-  - more info coming soon ... 
+Alongside my work at BMW Group, I co-founded **S3P Studios**, where we build AI-native digital products from idea to launch.
 
 ---
 
-## 🛠 Skills
+## What I Build
 
-- **Programming & Tools**: Python, Swift, SwiftUI, Machine Learning, Data Visualization, Big Data Analysis  
-- **Industry Expertise**: Electric Vehicles, Battery Technology, AI-driven Market Analysis  
+- **GenAI applications** with LLMs, RAG, hybrid search, agents, and multimodal workflows
+- **Full-stack products** with Python, TypeScript, React/Next.js, FastAPI, PostgreSQL, and Neo4j
+- **AI prototypes and MVPs** that connect business problems with working software
+- **Engineering and simulation tools** based on computational modeling, forecasting, and data-driven decision support
+- **Consumer and B2B SaaS products** with a strong focus on usability, privacy, and real-world deployment
+
+---
+
+## Selected Work
+
+- **KinderStories**  
+  Personalized AI story and audiobook app for children, built with LLM-generated text, images, voice, custom characters, and multilingual support.  
+  Website: https://www.s3p-studios.com
+
+- **Medical Knowledge Graph / Rare-Disease Registry**  
+  Prototype infrastructure for governed medical knowledge retrieval using FastAPI, React, PostgreSQL, Neo4j, GraphRAG, and schema-first validation.
+
+- **AI / GenAI Prototypes**  
+  Work around RAG, multi-agent systems, multimodal benchmarking, forecasting tools, and decision-support applications.
 
 ---
 
-## 🤝 Let's Connect!
+## Tech Stack
 
-- **LinkedIn**: [Dr. Savo Asanin](https://www.linkedin.com/in/dr-savo-a-549020149/)  
+**Languages:** Python, TypeScript, JavaScript, Java, Swift, SQL, GraphQL  
+**AI / Data:** LLMs, RAG, GraphRAG, embeddings, multi-agent systems, multimodal AI, ML, forecasting  
+**Backend:** FastAPI, REST APIs, GraphQL APIs, SQLAlchemy  
+**Frontend:** React, Next.js, SwiftUI  
+**Data / Infra:** PostgreSQL, Neo4j, Docker, Git, GitHub  
+**Product:** MVPs, technical discovery, AI strategy, product architecture, stakeholder-facing demos
 
 ---
+
+## Background
+
+- Dr.-Ing. in Computational Engineering, RWTH Aachen University
+- M.Sc. and B.Sc. in Chemical Engineering, Technical University of Munich
+- Experience across AI, automotive technology, electric vehicles, battery systems, simulation, and software product development
+
+---
+
+## Let's Connect
+
+- GitHub: https://github.com/Sav019
+- LinkedIn: https://www.linkedin.com/in/savo-a-549020149
+- S3P Studios: https://www.s3p-studios.com
